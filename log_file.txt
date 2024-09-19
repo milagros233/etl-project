@@ -1,0 +1,28 @@
+2024-Sep-19-17:02:10 , ETL Job Started
+2024-Sep-19-17:02:10 , extraction
+2024-Sep-19-17:05:08 , ETL Job Started
+2024-Sep-19-17:05:08 , extraction
+2024-Sep-19-17:05:46 , ETL Job Started
+2024-Sep-19-17:05:46 , extraction
+2024-Sep-19-17:08:38 , ETL Job Started
+2024-Sep-19-17:08:38 , extraction
+2024-Sep-19-17:11:15 , ETL Job Started
+2024-Sep-19-17:11:15 , extraction
+2024-Sep-19-17:11:15 , transformation
+2024-Sep-19-17:11:55 , ETL Job Started
+2024-Sep-19-17:11:55 , extraction
+2024-Sep-19-17:11:55 , transformation
+2024-Sep-19-17:12:01 , ETL Job Started
+2024-Sep-19-17:12:01 , extraction
+2024-Sep-19-17:12:01 , transformation
+2024-Sep-19-17:19:06 , ETL Job Started
+2024-Sep-19-17:19:06 , extraction
+2024-Sep-19-17:19:06 , transformation
+2024-Sep-19-17:23:30 , ETL Job Started
+2024-Sep-19-17:23:30 , extraction
+2024-Sep-19-17:23:30 , transformation
+2024-Sep-19-17:36:52 , ETL Job Started
+2024-Sep-19-17:36:52 , extraction
+2024-Sep-19-17:36:52 , transformation
+2024-Sep-19-17:36:52 , load
+2024-Sep-19-17:36:52 , ETL Job End
